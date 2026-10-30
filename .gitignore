@@ -1,0 +1,7 @@
+.DS_Store
+.build/
+.swiftpm/
+dist/
+*.dSYM/
+Runtime/ffmpeg
+Runtime/ffprobe
